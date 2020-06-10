@@ -26,6 +26,9 @@
     <ClInclude Include="dcm_t.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="dcm_Matrix.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

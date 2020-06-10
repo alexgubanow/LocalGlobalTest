@@ -151,6 +151,7 @@
     <ClCompile Include="testQtrCPP.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="dcm_Matrix.hpp" />
     <ClInclude Include="dcm_t.h" />
     <ClInclude Include="Stopwatch.h" />
   </ItemGroup>
